@@ -1,0 +1,15 @@
+/* Estilos generales */
+.mainBorderPane {
+    -fx-background-color: #14242B;
+}
+
+.menuVertical {
+    -fx-background-color: #223543;
+}
+
+.menuButton {
+    -fx-background-color: transparent;
+    -fx-text-fill: #ebe9e9;
+    -fx-font-size: 24px;
+    -fx-font-family: "System Bold";
+}

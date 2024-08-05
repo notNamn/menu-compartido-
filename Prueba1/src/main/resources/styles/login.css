@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#anchorPane{
+    -fx-background-color: #f0f0f0;
+}
+
+.mainFxmlClass {
+
+}
+
+/* Estilos a los text field */
+.texto{
+    -fx-font-size: 20px;
+    -fx-pading: 10px;
+    
+}
